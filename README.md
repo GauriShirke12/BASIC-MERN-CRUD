@@ -78,13 +78,6 @@
 - deleteTask(id)
 `
 
-### 📌 State Management:
-
-- `useState` manages tasks, errors & UI updates  
-- `useEffect` handles initial data fetching  
-- Dynamic task filtering/search (Upcoming!)  
-
-
 ## 👥 Contributors
 
 - 🎯 **Giri Naik** → [GitHub](https://github.com/Mudavath-Giri-Naik)
