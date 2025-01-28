@@ -6,20 +6,20 @@
 ## 📌 Quick Start Guide
 
 ### 🔹 Step 1: Clone This Repository
-``
+`
 git clone https://github.com/<your_github_username>/task-master.git
-```
+`
 
 ### 🔹 Step 2: Backend Setup 🛠️
-``
+`
 cd backend
 npm install
-```
+`
 
 Set up the database in `.env`:
-``
+`
 MONGODB_URI="mongodb+srv://<your_connection_string>"
-```
+`
 
 Start the server:
 ``
