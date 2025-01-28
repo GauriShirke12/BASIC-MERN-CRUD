@@ -91,5 +91,5 @@ npm start
 
 ## 👥 Contributors
 
-- 💡 **Gauri Shirke** → [GitHub](https://github.com/GauriShirke12)  
-- 🎯 **Giri Naik** → [GitHub](https://github.com/Mudavath-Giri-Naik)  
+- 🎯 **Giri Naik** → [GitHub](https://github.com/Mudavath-Giri-Naik)
+-💡 **Gauri Shirke** → [GitHub](https://github.com/GauriShirke12)  
