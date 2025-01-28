@@ -15,11 +15,11 @@
 * cd backend
 * npm install
 
-** Set up the database in `.env`:**
+**Set up the database in `.env`:**
 
  * MONGODB_URI="mongodb+srv://<your_connection_string>"
 
-** Start the server: **
+**Start the server:**
  * npm run dev
 
 ### 🔹 Step 3: Frontend Setup 🎨
