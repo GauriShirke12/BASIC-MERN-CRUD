@@ -22,16 +22,16 @@ MONGODB_URI="mongodb+srv://<your_connection_string>"
 `
 
 Start the server:
-``
+`
 npm run dev
-```
+`
 
 ### 🔹 Step 3: Frontend Setup 🎨
-``
+`
 cd frontend
 npm install
 npm start
-```
+`
 
 ## 🔧 Tech Stack & Tools
 
@@ -75,12 +75,12 @@ npm start
 ### 🛠 How API Calls Are Managed?
 
 `api.js` centralizes all API calls using Axios:
-```js
+`
 getTasks()
 createTask(text)
 updateTask(id, text, completed)
 deleteTask(id)
-```
+`
 
 ### 📌 State Management:
 
