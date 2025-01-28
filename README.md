@@ -7,7 +7,7 @@
 ###🔹 Step 1: Clone This Repository
    `git clone https://github.com/<your_github_username>/task-master.git`
 
-###🔹 Step 2: Backend Setup 🛠️
+###🔹 Step 2: Backend Setup 🛠️<br>
    `cd backend<br>`
    `npm install<br>`
 
