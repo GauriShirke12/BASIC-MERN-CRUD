@@ -43,10 +43,10 @@ npm start
 
 ## 🚀 Features That Power Your Productivity
 
-✔️ Create, Read, Update, Delete (CRUD) Tasks  
-⚡ Fast & Responsive UI  
-🔗 Seamless API Connectivity  
-💾 Persistent Data Storage (MongoDB)  
+- ✔️ Create, Read, Update, Delete (CRUD) Tasks  
+- ⚡Fast & Responsive UI  
+- 🔗 Seamless API Connectivity  
+- 💾 Persistent Data Storage (MongoDB)  
 
 
 
@@ -76,10 +76,10 @@ npm start
 
 `api.js` centralizes all API calls using Axios:
 `
-getTasks()
-createTask(text)
-updateTask(id, text, completed)
-deleteTask(id)
+- getTasks()
+- createTask(text)
+- updateTask(id, text, completed)
+- deleteTask(id)
 `
 
 ### 📌 State Management:
