@@ -7,30 +7,30 @@
 
 ### 🔹 Step 1: Clone This Repository
 `
-git clone https://github.com/<your_github_username>/task-master.git
+* git clone https://github.com/<your_github_username>/task-master.git
 `
 
 ### 🔹 Step 2: Backend Setup 🛠️
 `
-cd backend
-npm install
+* cd backend
+* npm install
 `
 
 Set up the database in `.env`:
 `
-MONGODB_URI="mongodb+srv://<your_connection_string>"
+* MONGODB_URI="mongodb+srv://<your_connection_string>"
 `
 
 Start the server:
 `
-npm run dev
+* npm run dev
 `
 
 ### 🔹 Step 3: Frontend Setup 🎨
 `
-cd frontend
-npm install
-npm start
+* cd frontend
+* npm install
+* npm start
 `
 
 ## 🔧 Tech Stack & Tools
